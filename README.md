@@ -3,6 +3,8 @@
 	   
 
 INTRODUCTION
+
+
 The stopwatch is a hand held timepiece designed to measure the amount of time that elapses from a particular time between it is activated and deactivated. The timing functions are traditionally controlled by two buttons. Pressing the start button starts the timer running, and pressing the button a second time stops it, leaving the elapsed time displayed. A press of the reset button then resets the stopwatch to zero.” (Ref: - “Stop Watch-Wikipedia)
 
 “The second part of the project focus on reaction time, the reaction time is the interval between the reception of a stimulus and the initiation of the response.” (Ref: - “Reaction Time, Wikipedia)
